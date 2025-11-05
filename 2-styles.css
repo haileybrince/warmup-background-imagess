@@ -1,0 +1,18 @@
+html{
+    background-image: url("images/2-square-tile.gif");
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.background-color{
+    background-color: bisque;
+    border-left-color: orange;
+    border-left-width: 8px;
+    border-left-style: solid;
+
+    border-right-color: orange;
+    border-right-width: 8px;
+    border-right-style: solid;
+
+    padding: 20px;
+}
